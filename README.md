@@ -12,5 +12,7 @@
   
   <p> View more <a target="_blank" href="https://br.pinterest.com/hleefranks/black-panther-marvel/">Black Panther pictures</a></p>
   
+  <a href="#"></a>
+  
   <a href = "#wakanda forever"> WF</a>
 </main>
