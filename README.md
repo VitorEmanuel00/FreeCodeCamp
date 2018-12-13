@@ -12,12 +12,22 @@
   
   <p> View more <a target="_blank" href="https://br.pinterest.com/hleefranks/black-panther-marvel/">Black Panther pictures</a></p>
   
+  <p>Team affiliations</p>
+  
   <ul>
     <li>Fantastic Four</li>
     <li> Avengers</li>
     <li>Fantastic Force</li>
     <li>Ultimates</li>
   </ul>
+  
+  <p>Enemies:</p>
+
+  <ol>   
+      <li>Erik Killmonger</li>
+      <li>Man-Ape</li>
+      <li>Klaw</li>
+  </ol>
   
   <a href="#"></a>
   
