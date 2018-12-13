@@ -2,7 +2,7 @@
 <h1 id= "Wakanda forever"> Wakanda Forever</h1>
 <h2>BlackPanther</h2>
 <main>
-  <img src="https://pixel.nymag.com/imgs/daily/vulture/2018/02/01/black-panther/lede.w700.h700.jpg" alt="Black Panther between    burning wakandan flags">
+  <a href="#"> <img src="https://pixel.nymag.com/imgs/daily/vulture/2018/02/01/black-panther/lede.w700.h700.jpg" alt="Black Panther between burning wakandan flags"> </a>
   
   <a href="https://www.vox.com/culture/2018/2/23/17028826/black-panther-wakanda-culture-marvel"> Vox's article on the celebration of black culture.</a>
          
