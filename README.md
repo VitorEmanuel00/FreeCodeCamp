@@ -12,7 +12,7 @@
   
   <p> View more <a target="_blank" href="https://br.pinterest.com/hleefranks/black-panther-marvel/">Black Panther pictures</a></p>
   
-  ul>
+  <ul>
     <li>Fantastic Four</li>
     <li> Avengers</li>
     <li>Fantastic Force</li>
