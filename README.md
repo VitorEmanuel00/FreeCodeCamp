@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <!--Just in case-->
 <h1 id= "Wakanda forever"> Wakanda Forever</h1>
 <h2>Black Panther</h2>
@@ -40,6 +41,20 @@
   
   <a href = "#wakanda forever"> WF</a>
   <br>
- <form action="/submit-afrofuturist-picture"> <input type="text" required placeholder="Afrofuturism URL"> <button type="submit">Submit</button> </form>
+  
+<form action="/submit-afrofuturist-picture">
+ <input type="text" required placeholder="Afrofuturism URL"> <button type="submit">Submit</button>
+ 
+ <label for="indoor"> 
+ <input id="indoor" type="radio" name="indoor-outdoor">Indoor 
+ </label>
+ <label for="outdoor"> 
+ <input id="outdoor" type="radio" name="indoor-outdoor">Outdoor 
+ </label>
+</form>
+ 
+ 
+ 
+ 
  <!--That form isn't showing in the preview--> </br>
 </main>
