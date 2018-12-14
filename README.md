@@ -35,9 +35,11 @@
       <li>Klaw</li>
   </ol>
   
-  <input type="text" placeholder="Afrofuturism URL">
   
   <a href="#"></a>
   
   <a href = "#wakanda forever"> WF</a>
+  
+ <form action="submit an afrofuturist picture"> <input type="text" placeholder="Afrofuturism URL"> </form>
+  
 </main>
