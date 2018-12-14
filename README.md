@@ -40,6 +40,6 @@
   
   <a href = "#wakanda forever"> WF</a>
   <br>
- <form action="submit an afrofuturist picture"> <input type="text" placeholder="Afrofuturism URL"> <button type="submit">Submit</button> </form>
+ <form action="/submit-afrofuturist-picture"> <input type="text" required placeholder="Afrofuturism URL"> <button type="submit">Submit</button> </form>
  <!--That form isn't showing in the preview--> </br>
 </main>
