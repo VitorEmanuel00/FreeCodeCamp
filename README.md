@@ -12,6 +12,9 @@
   <br>
   <a href="https://www.indiewire.com/2018/12/black-panther-production-design-wakanda-ryan-coogler-oscars-1202026404/"> Building Wakanda on Ryan Coogler’s Vision of Identity and Unity</a>
   </br>
+  <br>
+  <a href="https://www.youtube.com/watch?v=jlPwTMMhGGI"> Afrofuturism mixes sci-fi and social justice. Here’s how it works.</a>
+  </br>
          
   <p>Black Panther is the first superhero of African descent in mainstream American comics, having debuted years before early      African American superheroes such as Marvel Comics' the Falcon (1969), Luke Cage (1972) and Blade (1973), or DC Comics' John    Stewart in the role of Green Lantern (1971).</p>
   
@@ -48,13 +51,19 @@
  <label for="indoor"> 
  <input id="indoor" type="radio" name="indoor-outdoor">Indoor 
  </label>
+ 
  <label for="outdoor"> 
  <input id="outdoor" type="radio" name="indoor-outdoor">Outdoor 
  </label>
+ 
+ <label for="Vox's"><input id="Vox's" type="checkbox" name="Links liked"> Vox</label>
+
+ <label for="bbc's"><input id="bbc's" type="checkbox" name="Links liked"> BBC</label>
+
+ <label for="Indiewire's"><input id="Indiewire's" type="checkbox" name="Links liked"> IndieWire</label>
+ 
 </form>
  
  
- 
- 
- <!--That form isn't showing in the preview--> </br>
+ <!--That form isn't showing in the preview. I need to make a pull request--> </br>
 </main>
