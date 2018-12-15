@@ -49,14 +49,14 @@
  <input type="text" required placeholder="Afrofuturism URL"> <button type="submit">Submit</button>
  
  <label for="indoor"> 
- <input id="indoor" type="radio" name="indoor-outdoor">Indoor 
+ <input id="indoor" type="radio" name="indoor-outdoor"checked>Indoor 
  </label>
  
  <label for="outdoor"> 
  <input id="outdoor" type="radio" name="indoor-outdoor">Outdoor 
  </label>
  
- <label for="Vox's"><input id="Vox's" type="checkbox" name="Links liked"> Vox</label>
+ <label for="Vox's"><input id="Vox's" type="checkbox" name="Links liked" checked> Vox</label>
 
  <label for="bbc's"><input id="bbc's" type="checkbox" name="Links liked"> BBC</label>
 
@@ -65,5 +65,6 @@
 </form>
  
  
- <!--That form isn't showing in the preview. I need to make a pull request--> </br>
+ <!--That form isn't showing in the preview. I need to make a pull request or an issue... I just need some help.--> </br>
 </main>
+
