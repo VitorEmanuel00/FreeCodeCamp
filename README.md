@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
 <!--Just in case-->
-<h1 id= "Wakanda forever"> Wakanda Forever</h1>
+<head>
+ <h1 id= "Wakanda forever"> Wakanda Forever</h1>
+ </head>
+ 
+ <body>
 <h2>Black Panther</h2>
 <main>
  
@@ -69,5 +73,6 @@
  
  <!--That form isn't showing in the preview. I need to make a pull request or an issue... I just need some help.--> </br>
 </main>
+</body>
 </html>
 
