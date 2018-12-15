@@ -21,7 +21,7 @@
   <p>The character was        created by writer-editor Stan Lee and writer-artist Jack Kirby, first appearing in Fantastic Four #52 (cover-dated July        1966) in the Silver Age of Comic Books. Black Panther's real name is T'Challa, king and protector of the fictional African      nation of Wakanda.</p>
   
   <p> View more <a target="_blank" href="https://br.pinterest.com/hleefranks/black-panther-marvel/">Black Panther pictures</a></p>
-  
+  <div>
   <p>Team affiliations</p>
   
   <ul>
@@ -39,6 +39,7 @@
       <li>Klaw</li>
   </ol>
   
+  </div>
   
   <a href="#"></a>
   
