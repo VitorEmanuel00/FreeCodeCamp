@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<!--Just in case-->
+<!--#Introduction-to-Basic-HTML-and-HTML5-->
 <head>
  <h1 id= "Wakanda forever"> Wakanda Forever</h1>
  </head>
@@ -69,8 +69,7 @@
  <label for="Indiewire's"><input id="Indiewire's" type="checkbox" name="Links liked"> IndieWire</label>
  
 </form>
- 
- 
+
  <!--That form isn't showing in the preview. I need to make a pull request or an issue... I just need some help.--> </br>
 </main>
 </body>
